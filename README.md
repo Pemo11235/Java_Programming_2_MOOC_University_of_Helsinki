@@ -8,13 +8,13 @@ Those present in the repo are my solutions to the exercises I held **from 27/05/
 -------------------------------------------------------------------
 ## Course Contents ##
 
-[Part 8](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-8)
-[Part 9](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-9)
-[Part 10](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-10)
-[Part 11](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-11)
-[Part 12](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-12)
-[Part 13](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-13)
-[Part 14](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-14)
+- [Part 8](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-8)
+- [Part 9](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-9)
+- [Part 10](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-10)
+- [Part 11](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-11)
+- [Part 12](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-12)
+- [Part 13](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-13)
+- [Part 14](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-14)
 
 ---------------------------------------------------------------------
 #### Part 8:
