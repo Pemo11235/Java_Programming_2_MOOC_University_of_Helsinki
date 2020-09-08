@@ -10,6 +10,11 @@ Those present in the repo are my solutions to the exercises I held **from 27/05/
 
 #### Part 8:
  1. Short recap
+  1. Programming exercise: Cubes
+  2. Programming exercise: Average of positive numbers
+  3. Programming exercise: Liquid containers (3 parts)
+  4. Programming exercise: Liquid Containers 2.0 (2 parts)
+  5. Programming exercise: To do list (2 parts)
  2. Hash Map
  3. Similarity of objects
  4. Grouping data using hash maps
