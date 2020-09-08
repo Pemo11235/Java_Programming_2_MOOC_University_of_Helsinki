@@ -8,7 +8,7 @@ Those present in the repo are my solutions to the exercises I held **from 27/05/
 -------------------------------------------------------------------
 ## Course Contents ##
 
-### Part 8:
+#### Part 8:
  1. Short recap
  2. Hash Map
  3. Similarity of objects
