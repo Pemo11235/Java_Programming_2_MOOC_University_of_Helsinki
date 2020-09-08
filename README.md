@@ -6,7 +6,7 @@ The course is split up into two individual courses: *Java Programming I* and *Ja
 Those present in the repo are my solutions to the exercises I held **from 27/05/2020 to _current_** of the **Java Programming 2**, Part 8 to 14.
 
 -------------------------------------------------------------------
-## Course Contents
+## Course Contents ##
 
 ### Part 8:
  1. Short recap
