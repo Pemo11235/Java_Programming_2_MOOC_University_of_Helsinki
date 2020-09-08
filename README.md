@@ -5,7 +5,7 @@ The course is split up into two individual courses: *Java Programming I* and *Ja
 
 Those present in the repo are my solutions to the exercises I held **from 27/05/2020 to _current_** of the **Java Programming 2**, Part 8 to 14.
 
-[Part 14](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-14)
+
 -------------------------------------------------------------------
 ## Course Contents ##
 
