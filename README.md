@@ -18,7 +18,7 @@ Those present in the repo are my solutions to the exercises I held **from 27/05/
 
 ---------------------------------------------------------------------
 #### Part 8:
- 1. [Short recap](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/tree/master/Part 08)
+ 1. [Short recap](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/tree/master/Part-08)
     1. Programming exercise: Cubes
     2. Programming exercise: Average of positive numbers
     3. Programming exercise: Liquid containers (3 parts)
