@@ -16,9 +16,24 @@ Those present in the repo are my solutions to the exercises I held **from 27/05/
     4. Programming exercise: Liquid Containers 2.0 (2 parts)
     5. Programming exercise: To do list (2 parts)
  2. Hash Map
+    1. Quiz: Retrieve from a hash map
+    2. Programming exercise: Nicknames
+    3. Quiz: Object as a HashMap value
+    4. Programming exercise: Abbreviations
+    5. Programming exercise: Print me my hash map
+    6. Programming exercise: Print me another hash map
+    7. Programming exercise: I owe you
  3. Similarity of objects
+     1. Quiz: Equals
+     2. Quiz: Equals and ArrayList
+     3. Programming exercise: Same date
+     4. Programming exercise: Hash for date
+     5. Programming exercise: Vehicle Registry (3 parts)
  4. Grouping data using hash maps
+     1. Programming exercise: Dictionary of many translations
+     2. Programming exercise: Storage facility (2 parts)
  5. Fast data fetching and grouping information
+     1. Quiz: Part 8 learning objectives
  
 #### Part 9:
  1. Class inheritance
